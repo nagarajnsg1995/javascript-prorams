@@ -4,8 +4,6 @@ var C = prompt("Enter celsius between 0°C and 100°C : ");
 var F = prompt("Enter celsius between 32°F and 212°F : ");
 
 
-
-
 let randomCheck =( Math.floor(Math.random() * 10) % 2);
 
 switch(randomCheck) {
